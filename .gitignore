@@ -1,4 +1,4 @@
-./sensitive/
+.sensitive/
 *.exe
 *.ap
 *.jar
